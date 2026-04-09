@@ -156,5 +156,5 @@
     'a.utraff.com',
     'ntvpforever.com',
     's.uuidksinc.net',
-    .3db2df98c2.a42a39a7d7.com',
+    '3db2df98c2.a42a39a7d7.com',
     'js.onclckbnr.com',
